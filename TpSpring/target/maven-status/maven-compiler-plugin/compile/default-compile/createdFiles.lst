@@ -1,3 +1,7 @@
+com\mkyong\common\controller\CentreInteret.class
+com\mkyong\common\controller\Experience.class
 com\mkyong\common\controller\CV_Test.class
 com\mkyong\common\controller\XMLControler.class
 com\mkyong\common\controller\ListCV.class
+com\mkyong\common\controller\Formation.class
+com\mkyong\common\controller\Langue.class

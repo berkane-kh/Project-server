@@ -16,6 +16,9 @@ import java.util.List;
 public class XMLControler {
 
    static ListCV listCV= new ListCV();
+    //creation d'une liste conteant les formations
+
+    static List<Formation> listeForm = new ArrayList<Formation>();
 
     @RequestMapping( value="",method = RequestMethod.GET)
     public @ResponseBody

@@ -1,8 +1,8 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="TpSpring:war">
+  <artifact type="war" name="tpSpring:war">
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="tpSpring-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="TpSpring:war exploded" />
+      <element id="artifact" artifact-name="tpSpring:war exploded" />
     </root>
   </artifact>
 </component>
