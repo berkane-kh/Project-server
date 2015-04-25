@@ -26,5 +26,8 @@
         <module name="tpSpring" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tpSpring" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
