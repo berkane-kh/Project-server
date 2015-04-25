@@ -30,25 +30,19 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="884">
-              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="276" max-vertical-offset="884">
+              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CV_Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/CV_Test.java">
+      <file leaf-file-name="beans.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/tpSpring-1.0-SNAPSHOT/WEB-INF/beans.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2244">
-              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#474#485#0" expanded="true" />
-                <element signature="e#543#555#0" expanded="true" />
-                <element signature="e#616#631#0" expanded="true" />
-                <element signature="e#684#692#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -68,9 +62,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1054">
               <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,12 +70,32 @@
       <file leaf-file-name="XMLControler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/XMLControler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="952">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="952">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#498#509#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="context.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4194079" vertical-offset="0" max-vertical-offset="608">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,9 +105,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="867">
               <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,29 +113,21 @@
       <file leaf-file-name="CentreInteret.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/CentreInteret.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="578">
               <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListCV.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ListCV.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/ListCV.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4857143" vertical-offset="493" max-vertical-offset="1156">
+            <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1088">
               <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#276#285#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
                 <element signature="e#550#561#0" expanded="true" />
                 <element signature="e#617#629#0" expanded="true" />
                 <element signature="e#691#706#0" expanded="true" />
@@ -153,6 +155,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/Formation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/XMLControler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/ListCV.java" />
+        <option value="$PROJECT_DIR$/target/tpSpring-1.0-SNAPSHOT/META-INF/context.xml" />
       </list>
     </option>
   </component>
@@ -189,7 +192,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -232,6 +234,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tpSpring-1.0-SNAPSHOT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tpSpring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TpSpring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -253,6 +273,10 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -269,19 +293,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -299,9 +316,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tp_XML" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kheireddine\Project-server\TpSpring\src\main\webapp" />
       <recent name="D:\Master 1-Rouen-kheiro\GIL_S2\WEB2\Tps\tp1\TpSpring\src\main\webapp\WEB-INF" />
     </key>
   </component>
@@ -574,6 +593,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="26bae758-bca6-4eec-9c5a-4ea6d37265e9" name="Default" comment="" />
@@ -582,15 +604,16 @@
       <updated>1429192324760</updated>
       <workItem from="1429192331935" duration="12154000" />
       <workItem from="1429633283439" duration="12465000" />
-      <workItem from="1429867854048" duration="9258000" />
+      <workItem from="1429867854048" duration="10246000" />
+      <workItem from="1429959268667" duration="4462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33877000" />
+    <option name="totallyTimeSpent" value="39327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1370" height="744" extended-state="1" />
+    <frame x="-8" y="0" width="1370" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -650,6 +673,80 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="884">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/CV_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2244">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/Experience.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1122">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/Formation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1054">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/XMLControler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="952">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#498#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/Langue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="867">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/CentreInteret.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="578">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/ListCV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1156">
+          <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#276#285#0" expanded="true" />
+            <element signature="e#550#561#0" expanded="true" />
+            <element signature="e#617#629#0" expanded="true" />
+            <element signature="e#691#706#0" expanded="true" />
+            <element signature="e#754#762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="276" max-vertical-offset="884">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
@@ -660,13 +757,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="748">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#474#485#0" expanded="true" />
-            <element signature="e#543#555#0" expanded="true" />
-            <element signature="e#616#631#0" expanded="true" />
-            <element signature="e#684#692#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -688,10 +779,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#276#285#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
             <element signature="e#550#561#0" expanded="true" />
             <element signature="e#617#629#0" expanded="true" />
             <element signature="e#691#706#0" expanded="true" />
@@ -712,13 +799,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="310" max-vertical-offset="1020">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#474#485#0" expanded="true" />
-            <element signature="e#543#555#0" expanded="true" />
-            <element signature="e#616#631#0" expanded="true" />
-            <element signature="e#684#692#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -740,10 +821,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#276#285#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
             <element signature="e#550#561#0" expanded="true" />
             <element signature="e#617#629#0" expanded="true" />
             <element signature="e#691#706#0" expanded="true" />
@@ -776,22 +853,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/tpSpring-1.0-SNAPSHOT/WEB-INF/mvc-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/tpSpring-1.0-SNAPSHOT/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
@@ -800,25 +861,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="884">
-          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/CV_Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2244">
           <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#474#485#0" expanded="true" />
-            <element signature="e#543#555#0" expanded="true" />
-            <element signature="e#616#631#0" expanded="true" />
-            <element signature="e#684#692#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -834,20 +881,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1054">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/XMLControler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="952">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#498#509#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -855,9 +889,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="867">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -865,30 +897,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
           <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/ListCV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4857143" vertical-offset="493" max-vertical-offset="1156">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1088">
           <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#276#285#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
             <element signature="e#550#561#0" expanded="true" />
             <element signature="e#617#629#0" expanded="true" />
             <element signature="e#691#706#0" expanded="true" />
             <element signature="e#754#762#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="276" max-vertical-offset="884">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/tpSpring-1.0-SNAPSHOT/WEB-INF/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mkyong/common/controller/XMLControler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="952">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#498#509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4194079" vertical-offset="0" max-vertical-offset="608">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
