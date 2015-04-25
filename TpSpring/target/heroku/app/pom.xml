@@ -30,14 +30,24 @@
         </dependency>
     </dependencies>
     <build>
+        <finalName>tpSpring-1.0-SNAPSHOT</finalName>
+        <!-- Spring 3 dependencies -->
         <plugins>
-
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.1</version>
+                <configuration>
+                    <source>1.7</source>
+                    <target>1.7</target>
+                </configuration>
+            </plugin>
             <plugin>
                 <groupId>com.heroku.sdk</groupId>
                 <artifactId>heroku-maven-plugin</artifactId>
                 <version>0.3.6</version>
             <configuration>
-                    <appName>Project-server-rest</appName>
+                    <appName>project-server-rest</appName>
                 </configuration>
             </plugin>
         </plugins>

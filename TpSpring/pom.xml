@@ -47,7 +47,7 @@
                 <artifactId>heroku-maven-plugin</artifactId>
                 <version>0.3.6</version>
             <configuration>
-                    <appName>Project-server-rest</appName>
+                    <appName>project-server-rest</appName>
                 </configuration>
             </plugin>
         </plugins>
