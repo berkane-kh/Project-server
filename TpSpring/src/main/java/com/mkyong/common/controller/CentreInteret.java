@@ -12,7 +12,7 @@ public class CentreInteret {
     public  String loisir;
 
     public CentreInteret(){}
-
+    //mehdi
     public CentreInteret(String loisir){
         this.loisir=loisir;
     }
